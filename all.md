@@ -1,6 +1,7 @@
 # Waste Info
 
 https://vk.com/album-31712887_153115824 - Что МОЖНО приносить на акции "Раздельного сбора"(СПб)
+
 https://vk.com/album-31712887_202024656 - Что НЕЛЬЗЯ приносить на акции "Раздельного сбора"(СПб)
 
 # Datasets
@@ -18,3 +19,6 @@ https://systemeco.ru/view-barcodes - база данных штрихкодов
 http://www.the-village.ru/village/business/how/164481-kuda-devaetsya-gorodskoy-musor - Как устроен мусорный бизнес в России
 
 http://www.buhlergroup.com/europe/ru/9225.htm#.WNBAYEclHVN - Каталог компании Бюлер. Сортировка переработанных и новых пластмасс.
+
+# News
+http://bit.ly/2o0Gl7r - Результаты проверки внедрения властями раздельного сбора отходов в Москве
