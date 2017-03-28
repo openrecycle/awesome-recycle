@@ -30,7 +30,7 @@
 
 * [Как из мусора делают скамейки и детские площадки](http://www.the-village.ru/village/business/process/259892-ecoekb)
 
-* [Раздельный сбор мусора: быть или не быть в России(http://tass.ru/spec/musor_sbor)
+* [Раздельный сбор мусора: быть или не быть в России](http://tass.ru/spec/musor_sbor)
 
 * [Точка сбора. Сеть раздельного сбора отходов](https://vk.com/ecopoint)
 
@@ -43,6 +43,8 @@
 * [Waste Sorting Plant](http://kingtigergroup.com/waste-garbage-sorting-plant/)
 
 * [8 companies to watch in the circular economy](https://www.greenbiz.com/article/8-companies-watch-circular-economy)
+
+* [Sorting Solutions](https://www.tomra.com/en/solutions-and-products/sorting-solutions/)
 
 ## News
 * [Результаты проверки внедрения властями раздельного сбора отходов в Москве](http://bit.ly/2o0Gl7r)
