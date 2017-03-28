@@ -8,19 +8,19 @@
 
 ## Datasets
 
-http://data.gov.ru/opendata/7701236617-garbagestatisticaldata - Статистические данные о накоплении и вывозе мусора в городе Москве
+* [Статистические данные о накоплении и вывозе мусора в городе Москве](http://data.gov.ru/opendata/7701236617-garbagestatisticaldata)
 
 ## Interesting ecological projects
 
-http://lookbio.ru/mens/dmitrij-ioffe-ili-kak-prevratit-uborku-musora-v-igru/ - Дмитрий Иоффе, или Как превратить уборку мусора в игру
+* [Дмитрий Иоффе, или Как превратить уборку мусора в игру](http://lookbio.ru/mens/dmitrij-ioffe-ili-kak-prevratit-uborku-musora-v-igru/)
 
-https://systemeco.ru/view-barcodes - база данных штрихкодов
+* [база данных штрихкодов](https://systemeco.ru/view-barcodes)
 
 ## Waste Management in Russia and World
 
-http://www.the-village.ru/village/business/how/164481-kuda-devaetsya-gorodskoy-musor - Как устроен мусорный бизнес в России
+* [Как устроен мусорный бизнес в России](http://www.the-village.ru/village/business/how/164481-kuda-devaetsya-gorodskoy-musor)
 
-http://www.buhlergroup.com/europe/ru/9225.htm#.WNBAYEclHVN - Каталог компании Бюлер. Сортировка переработанных и новых пластмасс.
+* [Каталог компании Бюлер. Сортировка переработанных и новых пластмасс](http://www.buhlergroup.com/europe/ru/9225.htm#.WNBAYEclHVN) 
 
 ## News
-http://bit.ly/2o0Gl7r - Результаты проверки внедрения властями раздельного сбора отходов в Москве
+* [Результаты проверки внедрения властями раздельного сбора отходов в Москве](http://bit.ly/2o0Gl7r)
