@@ -14,7 +14,7 @@
 
 * [Дмитрий Иоффе, или Как превратить уборку мусора в игру](http://lookbio.ru/mens/dmitrij-ioffe-ili-kak-prevratit-uborku-musora-v-igru/)
 
-* [база данных штрихкодов](https://systemeco.ru/view-barcodes)
+* [База данных штрихкодов](https://systemeco.ru/view-barcodes)
 
 ## Waste Management in Russia and World
 
