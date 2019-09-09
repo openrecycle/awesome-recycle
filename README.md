@@ -1,4 +1,4 @@
-# awesome-openrecycle
+# awesome-recycle
 
 ## Waste Info
 
